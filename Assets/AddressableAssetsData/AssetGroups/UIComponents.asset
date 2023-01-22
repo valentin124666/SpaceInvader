@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UIComponents
+  m_EditorClassIdentifier: 
+  m_GroupName: UIComponents
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4bdd6f31b1b98494c867ed182a3a82d8
+  m_SerializeEntries:
+  - m_GUID: ae6a0544e18ea8e45abde3b5a6b3c023
+    m_Address: InGameplay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1d01111cab85dd4a8d80dfa6b613848
+    m_Address: StartMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4f0f16244937064eb90d2cdb63b1fff
+    m_Address: PausePopups
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64024dc7d000cbc4eb94366dd4e73eaf
+    m_Address: EndGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fa4738a327cd0b64190534cd6171a010, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: de77e469b0dd208428919e9da9df2533, type: 2}
+    - {fileID: 11400000, guid: a71c3fed368ffbc42bd99c8dee3a8271, type: 2}
